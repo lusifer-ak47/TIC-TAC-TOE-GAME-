@@ -1,3 +1,3 @@
 # TIC-TAC-TOE-GAME. 
-code by: lusifer-ak47
+CODE BY: lusifer-ak47
 
